@@ -29,7 +29,7 @@ These exercises belong to the old Platzi Javascript course I finished a few mont
 - Function to calculate the mode of a matrix
 - Challenge: Create a function to calculate the weighted mean of a matrix
 
-### Taller #4: Salaries
+### Exercise #4: Salaries
 
 - List of workers with their names and salaries
 - Function to calculate the median of all salaries, the median of the top 10% salaries, and the average of all salaries
