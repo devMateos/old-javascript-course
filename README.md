@@ -33,5 +33,5 @@ These exercises belong to the old Platzi Javascript course I finished a few mont
 
 - List of workers with their names and salaries
 - Function to calculate the median of all salaries, the median of the top 10% salaries, and the average of all salaries
-- Challenge: Calculate how much each worker must pay in IRPF (a Spanish tax)
+- Challenge: Create a function to calculate how much each worker must pay in IRPF (a Spanish tax)
 
