@@ -1,6 +1,5 @@
-# platzi-curso-practico-javascript
-
-...
+# old-javascript-course
+Exercises made for the old Platzi Javascript Course...
 
 ## Taller #1: figuras geométricas
 
